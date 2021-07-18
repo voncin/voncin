@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**voncin/voncin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**voncin/voncin** is a ✨ _special_ ✨ repository appears on my GitHub profile.
 
-Here are some ideas to get you started:
+Here are some information that will let you know about me:
 
 - 🔭 I’m currently working on English speaking and software development.
 - 🌱 I’m currently learning English and various of programming languages.
