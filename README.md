@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with English and programming startup.
 - 💬 Ask me about my repository.
 - 📫 How to reach me: Email: voncin@qq.com. Yeah, you can contact me though I don't usually check my mailbox.
-- 😄 Pronouns: I'm a lazy boy.
-- ⚡ Fun fact: Actually lazy.
+- 😄 Pronouns: Call me Vincent.
+- ⚡ Fun fact: I'm a lazy boy.
