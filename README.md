@@ -14,5 +14,4 @@ Here are some information that will let you know about me:
 - ⚡ Fun fact: I'm a lazy boy.
 
 - 简历是 html + font awesome 写的:
-
 [预览简历](https://htmlpreview.github.io/?https://github.com/voncin/voncin/blob/main/resume.html)
